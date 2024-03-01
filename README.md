@@ -21,3 +21,15 @@ Ibagli. (2009). Empire State Building Aerial. Wikimedia Commons. https://commons
 (2024). HTML Layout Elements and Techniques. W3 Schools. https://www.w3schools.com/html/html_layout.asp 
 
 (2024). How To Center an Image. W3 Schools. https://www.w3schools.com/howto/howto_css_image_center.asp 
+
+# Installed Extensions
+
+Prettier - Code Formatter
+
+Live Share
+
+Live Server
+
+Deploy to GitHub Pages
+
+Code Spell Checker
