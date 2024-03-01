@@ -22,6 +22,8 @@ Ibagli. (2009). Empire State Building Aerial. Wikimedia Commons. https://commons
 
 (2024). How To Center an Image. W3 Schools. https://www.w3schools.com/howto/howto_css_image_center.asp 
 
+(2024). HTML Links - Different Colors. W3 Schools. https://www.w3schools.com/html/html_links_colors.asp 
+
 # Installed Extensions
 
 Prettier - Code Formatter
