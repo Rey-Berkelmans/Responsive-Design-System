@@ -10,7 +10,11 @@ Ibagli. (2009). Empire State Building Aerial. Wikimedia Commons. https://commons
 
 # Resources
 
+(2024). The website design inspiration inspiration you're looking for. WIX. https://www.wix.com/explore/websites 
+
 (2013.) How to center navigation bar in UL? Stack Overflow. https://stackoverflow.com/questions/17128204/how-to-center-navigation-bar-in-ul
+
+(2024). HTML Responsive Web Design. W3 Schools. https://www.w3schools.com/html/html_responsive.asp 
 
 (2024). HTML Headings. W3 Schools. https://www.w3schools.com/html/html_headings.asp
 
